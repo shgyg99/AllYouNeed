@@ -21,10 +21,6 @@ Feel free to fork this repo and submit pull requests with your cheat sheets.
 
 ---
 
-## 📜 License
-
-This repository is licensed under the MIT License. See the LICENSE file for more details.
-
 ## 📞 Contact
 
 - Email: [shgyg99@gmail.com](mailto:shgyg99@gmail.com)
